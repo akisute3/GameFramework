@@ -1,5 +1,5 @@
-#ifndef __GAME_HPP_INCLUDED
-#define __GAME_HPP_INCLUDED
+#ifndef GAME_HPP_
+#define GAME_HPP_
 
 class Game {
  public:
